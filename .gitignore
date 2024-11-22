@@ -50,3 +50,14 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# VS Code settings
+.vscode/*
+
+# Executables
+recv_signal
+send_signal
+sigalrm
+sighandler
+signal_segfault
+signal_sigaction
