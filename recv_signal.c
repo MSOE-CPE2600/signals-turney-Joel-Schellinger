@@ -1,9 +1,9 @@
 /**
- * File: 
- * Modified by:
- * 
- * Brief summary of program:
+ * @file recv_signal.c
+ * @brief Receives SIGUSR and process data sent along with it
+ * @author Joel Schellinger
  */
+
 #include <sys/types.h>
 #include <unistd.h>
 #include <stdio.h>
